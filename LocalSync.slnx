@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LocalSync.ConsoleTest/LocalSync.ConsoleTest.csproj" />
+  <Project Path="LocalSync/LocalSync.csproj" />
+</Solution>
